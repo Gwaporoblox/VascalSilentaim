@@ -39,7 +39,7 @@
 		["Size"] = 35,
 		["Filled"] = true,
 		["Thickness"] = 0.66,
-		["Transparency"] = 0.9,
+		["Transparency"] = 0.1,
 		["Color"] = Color3.fromRGB(255,255,0),
 	},
 	["Camlock"] = {
