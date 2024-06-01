@@ -95,7 +95,7 @@
 	    ["Value"] = 1,
 	   },
 	["Resolvers"] = {  --entirely not
-	    ["Enabled"] = true,
+	    ["Enabled"] = false,
 	    ["AutoDetect"] = false,
 	    ["Type"] = "Recalculator",
 	},
