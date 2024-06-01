@@ -40,7 +40,7 @@
 		["Filled"] = false,
 		["Thickness"] = 0.66,
 		["Transparency"] = 0.1,
-		["Color"] = Color3.fromRGB(255,255,0),
+		["Color"] = Color3.fromRGB(0,255,0),
 	},
 	["Camlock"] = {
 	    ["Enabled"] = false,
